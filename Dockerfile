@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install -y \
     x11vnc \
     novnc \
     websockify \
+    dbus-x11 \
     net-tools \
     ca-certificates \
     fonts-liberation \
